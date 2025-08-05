@@ -94,5 +94,5 @@ Feel free to fork, raise issues, or contribute enhancements via PR.
 ## 📬 Contact
 
 **Author:** Garry Roque Fernandes  
-**Email:** garryfernandes2@gmail.com  
+**Email:** garryfernandes22@gmail.com  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/garryfernandes2)
