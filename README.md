@@ -10,9 +10,7 @@ This project focuses on exploring and analyzing a dataset of used cars to unders
 ├── data/
 │   └── used_cars.csv
 ├── images/
-│   └── plots, charts, and visualizations
-└── models/
-    └── trained_model.pkl (optional)
+│   └── plots, charts, and visualizations  
 ```
 
 ## 📌 Objectives
